@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreSimpleConsole", "EFCoreSimpleConsole\EFCoreSimpleConsole.csproj", "{3898AAA5-AA6A-4AC6-BE8B-D2A17736D24D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreSimpleConsole.Repository", "EFCoreSimpleConsole.Repository\EFCoreSimpleConsole.Repository.csproj", "{53FB81AB-D710-4574-858D-9D0D845D1C8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3898AAA5-AA6A-4AC6-BE8B-D2A17736D24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3898AAA5-AA6A-4AC6-BE8B-D2A17736D24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3898AAA5-AA6A-4AC6-BE8B-D2A17736D24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3898AAA5-AA6A-4AC6-BE8B-D2A17736D24D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53FB81AB-D710-4574-858D-9D0D845D1C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FB81AB-D710-4574-858D-9D0D845D1C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FB81AB-D710-4574-858D-9D0D845D1C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FB81AB-D710-4574-858D-9D0D845D1C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5C2D721-BEE1-4D7D-B43E-A91D6E7700B1}
+	EndGlobalSection
+EndGlobal
